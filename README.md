@@ -2,7 +2,7 @@
 
 (ChatGPT helped generate the README).
 
-This repository provides a demonstration of how to set nonlinear passive joint properties in a robotic simulation environment. This can be useful for accurately modeling the behavior of joints that do not follow a linear relationship between torque and angle, such as those with elastic or damping characteristics that change with displacement or velocity.
+This repository provides a demonstration of how to set nonlinear passive joint properties in mujoco. This can be useful for accurately modeling the behavior of joints that do not follow a linear relationship between torque and angle, such as those with elastic or damping characteristics that change with displacement or velocity.
 
 ## Table of Contents
 
@@ -31,7 +31,8 @@ Install the required Python packages:
 The main script to demonstrate setting nonlinear passive joint properties is demo.py. You can run it as follows:
 ```python demo.py```
 
-
+<img src="./gifs/response_plot.png" width="500" height="250" />
+<br>
 <img src="./gifs/right.gif" width="240" height="240" />
 <img src="./gifs/mid.gif" width="240" height="240" />
 <img src="./gifs/left.gif" width="240" height="240" />
