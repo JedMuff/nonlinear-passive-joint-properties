@@ -19,7 +19,7 @@ This repository provides a demonstration of how to set nonlinear passive joint p
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/nonlinear-passive-joint-properties.git
+git clone https://github.com/JedMuff/nonlinear-passive-joint-properties.git
 cd nonlinear-passive-joint-properties
 ```
 
