@@ -1,0 +1,5 @@
+mujoco
+numpy
+matplotlib
+imageio-ffmpeg
+mujoco-python-viewer
